@@ -5,7 +5,7 @@ Created on Tue May  8 12:44:47 2018
 @author: THINKPAD TT470
 """
 
-
+#######Download full Stanford Tagger version 3.9.1 https://nlp.stanford.edu/software/tagger.shtml#Download########
 
 import nltk 
 nltk.download('averaged_perceptron_tagger')
